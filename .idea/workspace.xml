@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aaf4b405-8965-4044-9703-dc3f3811e77d" name="Default Changelist" comment="" />
+    <list default="true" id="aaf4b405-8965-4044-9703-dc3f3811e77d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/DigitalHouse/Teste/Exer01/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DigitalHouse/Teste/Exer01/Conta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DigitalHouse/Teste/Exer01/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DigitalHouse/Teste/Exer02/JogadorDeFutebol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DigitalHouse/Teste/Exer02/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DigitalHouse/Teste/Exer02/SessaoDeTreinamentos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DigitalHouse/Teste/Exer03/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DigitalHouse/Teste/Exer03/Prova.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DigitalHouse/Teste/Exer04/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DigitalHouse/Teste/Exer04/Tripe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,7 +25,67 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DigitalHouse/Teste/Exer04/Tripe.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="45" column="11" selection-start-line="45" selection-start-column="11" selection-end-line="45" selection-end-column="11" />
+              <folding>
+                <element signature="e#169#170#0" expanded="true" />
+                <element signature="e#199#200#0" expanded="true" />
+                <element signature="e#246#247#0" expanded="true" />
+                <element signature="e#284#285#0" expanded="true" />
+                <element signature="e#317#318#0" expanded="true" />
+                <element signature="e#349#350#0" expanded="true" />
+                <element signature="e#396#397#0" expanded="true" />
+                <element signature="e#433#434#0" expanded="true" />
+                <element signature="e#466#467#0" expanded="true" />
+                <element signature="e#498#499#0" expanded="true" />
+                <element signature="e#545#546#0" expanded="true" />
+                <element signature="e#582#583#0" expanded="true" />
+                <element signature="e#617#618#0" expanded="true" />
+                <element signature="e#651#652#0" expanded="true" />
+                <element signature="e#702#703#0" expanded="true" />
+                <element signature="e#743#744#0" expanded="true" />
+                <element signature="e#1054#1055#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DigitalHouse/Teste/Exer04/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/DigitalHouse/Teste/Exer03/Atleta.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="302">
+              <caret line="25" column="4" lean-forward="true" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
+              <folding>
+                <element signature="e#145#146#0" expanded="true" />
+                <element signature="e#172#173#0" expanded="true" />
+                <element signature="e#203#204#0" expanded="true" />
+                <element signature="e#233#234#0" expanded="true" />
+                <element signature="e#262#263#0" expanded="true" />
+                <element signature="e#290#291#0" expanded="true" />
+                <element signature="e#330#331#0" expanded="true" />
+                <element signature="e#362#363#0" expanded="true" />
+                <element signature="e#405#406#0" expanded="true" />
+                <element signature="e#482#483#0" expanded="true" />
+                <element signature="e#516#517#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -23,22 +95,12 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/DigitalHouse/Aula04/Exercicio01/Main.java" />
-        <option value="$PROJECT_DIR$/src/DigitalHouse/Aula04/Exercicio02/CamaroteInferior.java" />
-        <option value="$PROJECT_DIR$/src/DigitalHouse/Aula04/Exercicio02/Ingresso.java" />
-        <option value="$PROJECT_DIR$/src/DigitalHouse/Aula04/Exercicio02/Vip.java" />
-        <option value="$PROJECT_DIR$/src/DigitalHouse/Aula04/Exercicio02/Teste.java" />
-        <option value="$PROJECT_DIR$/src/DigitalHouse/Aula04/Exercicio02/Valor.java" />
-        <option value="$PROJECT_DIR$/src/DigitalHouse/Aula04/Exercicio02/Normal.java" />
-        <option value="$PROJECT_DIR$/src/DigitalHouse/Aula04/Exercicio02/CamaroteSuperior.java" />
-        <option value="$PROJECT_DIR$/src/DigitalHouse/Aula05/Exercicio01/Animal.java" />
-        <option value="$PROJECT_DIR$/src/DigitalHouse/Aula05/Exercicio01/Brincavel.java" />
-        <option value="$PROJECT_DIR$/src/DigitalHouse/Aula05/Exercicio01/Cachorro.java" />
-        <option value="$PROJECT_DIR$/src/DigitalHouse/Aula05/Exercicio01/Pessoa.java" />
-        <option value="$PROJECT_DIR$/src/DigitalHouse/Aula05/Exercicio01/Main.java" />
         <option value="$PROJECT_DIR$/src/DigitalHouse/Aula05/Exercicio01/Saudavel.java" />
         <option value="$PROJECT_DIR$/src/DigitalHouse/Aula06/Exercicio01/Contrato.java" />
         <option value="$PROJECT_DIR$/src/DigitalHouse/Aula06/Exercicio01/Documento.java" />
@@ -77,6 +139,19 @@
         <option value="$PROJECT_DIR$/src/DigitalHouse/Aula00/Exercicio02/Exer02.java" />
         <option value="$PROJECT_DIR$/src/DigitalHouse/Aula00/Exercicio03/Exer03.java" />
         <option value="$PROJECT_DIR$/src/DigitalHouse/Aula00/Exercicio04/Exer04.java" />
+        <option value="$PROJECT_DIR$/src/DigitalHouse/Teste/Cliente.java" />
+        <option value="$PROJECT_DIR$/src/DigitalHouse/Teste/Deposito.java" />
+        <option value="$PROJECT_DIR$/src/DigitalHouse/Teste/Main.java" />
+        <option value="$PROJECT_DIR$/src/DigitalHouse/Teste/Conta.java" />
+        <option value="$PROJECT_DIR$/src/DigitalHouse/Teste/Exer01/Main.java" />
+        <option value="$PROJECT_DIR$/src/DigitalHouse/Teste/Exer02/Main.java" />
+        <option value="$PROJECT_DIR$/src/DigitalHouse/Teste/Exer02/SessaoDeTreinamentos.java" />
+        <option value="$PROJECT_DIR$/src/DigitalHouse/Teste/Exer02/JogadorDeFutebol.java" />
+        <option value="$PROJECT_DIR$/src/DigitalHouse/Teste/Exer03/Main.java" />
+        <option value="$PROJECT_DIR$/src/DigitalHouse/Teste/Exer03/Prova.java" />
+        <option value="$PROJECT_DIR$/src/DigitalHouse/Teste/Exer04/Tripe.java" />
+        <option value="$PROJECT_DIR$/src/DigitalHouse/Teste/Exer04/Main.java" />
+        <option value="$PROJECT_DIR$/src/DigitalHouse/Teste/Exer03/Atleta.java" />
       </list>
     </option>
   </component>
@@ -86,13 +161,15 @@
     <option name="width" value="1347" />
     <option name="height" value="690" />
   </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -111,14 +188,104 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="DigitalHouse" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="OrientacaoObjetoJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JAVA_POO" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="DigitalHouse" type="462c0819:PsiDirectoryNode" />
+              <item name="Aula04" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OrientacaoObjetoJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JAVA_POO" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="DigitalHouse" type="462c0819:PsiDirectoryNode" />
+              <item name="Aula04" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercicio02" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OrientacaoObjetoJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JAVA_POO" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="DigitalHouse" type="462c0819:PsiDirectoryNode" />
+              <item name="Aula06" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OrientacaoObjetoJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JAVA_POO" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="DigitalHouse" type="462c0819:PsiDirectoryNode" />
+              <item name="Aula07" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OrientacaoObjetoJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JAVA_POO" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="DigitalHouse" type="462c0819:PsiDirectoryNode" />
+              <item name="Aula07" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercicio01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OrientacaoObjetoJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JAVA_POO" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="DigitalHouse" type="462c0819:PsiDirectoryNode" />
+              <item name="Aula07" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercicio02" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OrientacaoObjetoJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JAVA_POO" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="DigitalHouse" type="462c0819:PsiDirectoryNode" />
+              <item name="Aula09" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OrientacaoObjetoJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JAVA_POO" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="DigitalHouse" type="462c0819:PsiDirectoryNode" />
+              <item name="Teste" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OrientacaoObjetoJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JAVA_POO" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="DigitalHouse" type="462c0819:PsiDirectoryNode" />
+              <item name="Teste" type="462c0819:PsiDirectoryNode" />
+              <item name="Exer02" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OrientacaoObjetoJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JAVA_POO" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="DigitalHouse" type="462c0819:PsiDirectoryNode" />
+              <item name="Teste" type="462c0819:PsiDirectoryNode" />
+              <item name="Exer03" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OrientacaoObjetoJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JAVA_POO" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="DigitalHouse" type="462c0819:PsiDirectoryNode" />
+              <item name="Teste" type="462c0819:PsiDirectoryNode" />
+              <item name="Exer04" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="DigitalHouse.Teste.Exer03" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -131,6 +298,68 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager" selected="Application.Main (3)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DigitalHouse.Teste.Exer02.Main" />
+      <module name="JAVA_POO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DigitalHouse.Teste.Exer02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DigitalHouse.Teste.Exer03.Main" />
+      <module name="JAVA_POO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DigitalHouse.Teste.Exer03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DigitalHouse.Teste.Exer04.Main" />
+      <module name="JAVA_POO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DigitalHouse.Teste.Exer04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DigitalHouse.Teste.Exer01.Main" />
+      <module name="JAVA_POO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DigitalHouse.Teste.Exer01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -147,8 +376,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="704" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2534413" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27044535" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -156,8 +386,8 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.5699301" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32867134" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -165,6 +395,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.32867134" />
       <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -175,7 +406,7 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2534413" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27125505" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -183,15 +414,16 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.5699301" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32867134" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.32867134" />
       <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -203,148 +435,6 @@
     </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/DigitalHouse/Aula04/Exercicio02/Teste.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="39" selection-start-line="39" selection-end-line="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DigitalHouse/Aula04/Exercicio02/Valor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DigitalHouse/Aula04/Exercicio02/CamaroteInferior.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-          <folding>
-            <element signature="e#242#243#0" expanded="true" />
-            <element signature="e#284#285#0" expanded="true" />
-            <element signature="e#342#343#0" expanded="true" />
-            <element signature="e#396#397#0" expanded="true" />
-            <element signature="e#427#428#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DigitalHouse/Aula04/Exercicio01/Pessoa.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-          <folding>
-            <element signature="e#647#648#0" expanded="true" />
-            <element signature="e#707#708#0" expanded="true" />
-            <element signature="e#872#873#0" expanded="true" />
-            <element signature="e#899#900#0" expanded="true" />
-            <element signature="e#930#931#0" expanded="true" />
-            <element signature="e#957#958#0" expanded="true" />
-            <element signature="e#997#998#0" expanded="true" />
-            <element signature="e#1029#1030#0" expanded="true" />
-            <element signature="e#1065#1066#0" expanded="true" />
-            <element signature="e#1097#1098#0" expanded="true" />
-            <element signature="e#1147#1148#0" expanded="true" />
-            <element signature="e#1189#1190#0" expanded="true" />
-            <element signature="e#1219#1220#0" expanded="true" />
-            <element signature="e#1245#1246#0" expanded="true" />
-            <element signature="e#1283#1284#0" expanded="true" />
-            <element signature="e#1313#1314#0" expanded="true" />
-            <element signature="e#1345#1346#0" expanded="true" />
-            <element signature="e#1372#1373#0" expanded="true" />
-            <element signature="e#1412#1413#0" expanded="true" />
-            <element signature="e#1444#1445#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DigitalHouse/Aula04/Exercicio02/CamaroteSuperior.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DigitalHouse/Aula04/Exercicio02/Ingresso.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-          <folding>
-            <element signature="e#298#299#0" expanded="true" />
-            <element signature="e#330#331#0" expanded="true" />
-            <element signature="e#388#389#0" expanded="true" />
-            <element signature="e#420#421#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DigitalHouse/Aula04/Exercicio02/Normal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="e#227#228#0" expanded="true" />
-            <element signature="e#255#256#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DigitalHouse/Aula04/Exercicio02/Vip.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DigitalHouse/Aula05/Exercicio01/Brincavel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DigitalHouse/Aula05/Exercicio01/Animal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="422">
-          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
-          <folding>
-            <element signature="e#240#241#0" expanded="true" />
-            <element signature="e#363#364#0" expanded="true" />
-            <element signature="e#398#399#0" expanded="true" />
-            <element signature="e#446#447#0" expanded="true" />
-            <element signature="e#490#491#0" expanded="true" />
-            <element signature="e#523#524#0" expanded="true" />
-            <element signature="e#559#560#0" expanded="true" />
-            <element signature="e#606#607#0" expanded="true" />
-            <element signature="e#652#653#0" expanded="true" />
-            <element signature="e#686#687#0" expanded="true" />
-            <element signature="e#720#721#0" expanded="true" />
-            <element signature="e#766#767#0" expanded="true" />
-            <element signature="e#808#809#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DigitalHouse/Aula05/Exercicio01/Saudavel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DigitalHouse/Aula05/Exercicio01/Cachorro.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
-          <folding>
-            <element signature="e#176#177#0" expanded="true" />
-            <element signature="e#207#208#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/DigitalHouse/Aula05/Exercicio01/Pessoa.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -617,20 +707,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DigitalHouse/Aula09/Exercicio01/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="19" lean-forward="true" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DigitalHouse/Aula09/Exercicio01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DigitalHouse/Aula09/Exercicio01/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/DigitalHouse/Aula09/Exercicio01.java" />
     <entry file="file://$PROJECT_DIR$/src/DigitalHouse/Aula08/Exercicio04/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -682,13 +760,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DigitalHouse/Aula09/ExercicioEmSala/Exer03.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DigitalHouse/Aula09/ExercicioEmSala/Exer03.java" />
     <entry file="file://$PROJECT_DIR$/src/DigitalHouse/Aula09/ExercicioEmSala/Exercicio01/Exer01.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -748,6 +820,132 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DigitalHouse/Teste/Deposito.java" />
+    <entry file="file://$PROJECT_DIR$/src/DigitalHouse/Teste/Exer01/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DigitalHouse/Teste/Exer02/SessaoDeTreinamentos.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="e#116#117#0" expanded="true" />
+            <element signature="e#141#142#0" expanded="true" />
+            <element signature="e#174#175#0" expanded="true" />
+            <element signature="e#202#203#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DigitalHouse/Teste/Exer01/Cliente.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DigitalHouse/Teste/Exer02/JogadorDeFutebol.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="490">
+          <caret line="66" column="5" selection-start-line="66" selection-start-column="5" selection-end-line="66" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DigitalHouse/Teste/Exer01/Conta.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-105">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DigitalHouse/Teste/Exer02/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DigitalHouse/Teste/Exer03/Prova.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="35" column="52" selection-start-line="35" selection-start-column="52" selection-end-line="35" selection-end-column="52" />
+          <folding>
+            <element signature="e#154#155#0" expanded="true" />
+            <element signature="e#188#189#0" expanded="true" />
+            <element signature="e#229#230#0" expanded="true" />
+            <element signature="e#269#270#0" expanded="true" />
+            <element signature="e#320#321#0" expanded="true" />
+            <element signature="e#366#367#0" expanded="true" />
+            <element signature="e#429#430#0" expanded="true" />
+            <element signature="e#487#488#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DigitalHouse/Teste/Exer03/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DigitalHouse/Teste/Exer04/Tripe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="45" column="11" selection-start-line="45" selection-start-column="11" selection-end-line="45" selection-end-column="11" />
+          <folding>
+            <element signature="e#169#170#0" expanded="true" />
+            <element signature="e#199#200#0" expanded="true" />
+            <element signature="e#246#247#0" expanded="true" />
+            <element signature="e#284#285#0" expanded="true" />
+            <element signature="e#317#318#0" expanded="true" />
+            <element signature="e#349#350#0" expanded="true" />
+            <element signature="e#396#397#0" expanded="true" />
+            <element signature="e#433#434#0" expanded="true" />
+            <element signature="e#466#467#0" expanded="true" />
+            <element signature="e#498#499#0" expanded="true" />
+            <element signature="e#545#546#0" expanded="true" />
+            <element signature="e#582#583#0" expanded="true" />
+            <element signature="e#617#618#0" expanded="true" />
+            <element signature="e#651#652#0" expanded="true" />
+            <element signature="e#702#703#0" expanded="true" />
+            <element signature="e#743#744#0" expanded="true" />
+            <element signature="e#1054#1055#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DigitalHouse/Teste/Exer04/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DigitalHouse/Teste/Exer03/Atleta.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="25" column="4" lean-forward="true" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
+          <folding>
+            <element signature="e#145#146#0" expanded="true" />
+            <element signature="e#172#173#0" expanded="true" />
+            <element signature="e#203#204#0" expanded="true" />
+            <element signature="e#233#234#0" expanded="true" />
+            <element signature="e#262#263#0" expanded="true" />
+            <element signature="e#290#291#0" expanded="true" />
+            <element signature="e#330#331#0" expanded="true" />
+            <element signature="e#362#363#0" expanded="true" />
+            <element signature="e#405#406#0" expanded="true" />
+            <element signature="e#482#483#0" expanded="true" />
+            <element signature="e#516#517#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
